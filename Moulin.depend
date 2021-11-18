@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580707294 source:c:\users\hp\desktop\2020_projectc_afnidou_farkadi\project.c
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
